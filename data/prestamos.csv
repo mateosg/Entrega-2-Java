@@ -1,0 +1,25 @@
+usuario-ejemplar-fechaSolicitud-fechaDevolucion-fechaRealDevolucion
+{Juan, Perez, 12345678A}-{{La Iliada, Homero, 9788437610272};0001;no}-15/02/2022-25/02/2022-null
+{Ana, Garcia, 23456789B}-{{El Quijote, Miguel de Cervantes, 9788420672333};0002;si}-16/02/2022-23/02/2022-02/03/2022
+{Pedro, Rodriguez, 34567890C}-{{Cien años de soledad, Gabriel Garcia Marquez, 9780307474728};0003;no}-01/03/2022-08/03/2022-15/03/2022
+{Maria, Lopez, 45678901D}-{{Orgullo y prejuicio, Jane Austen, 9788420673439};0004;si}-02/03/2022-09/03/2022-09/03/2022
+{Luis, Hernandez, 56789012E}-{{Don Quijote de la Mancha, Miguel de Cervantes, 9788470393600};0005;no}-03/03/2022-10/03/2022-null
+{Elena, Ruiz, 67890123F}-{{El amor en los tiempos del cólera, Gabriel Garcia Marquez, 9780307387264};0006;si}-04/03/2022-11/03/2022-null
+{Antonio, Fernandez, 78901234G}-{{Rayuela, Julio Cortázar, 9788466310518};0007;no}-05/03/2022-12/03/2022-12/03/2022
+{Isabel, Sanchez, 89012345H}-{{La Odisea, Homero, 9788420660828};0008;si}-06/03/2022-13/03/2022-null
+{Mario, Jimenez, 90123456I}-{{La Celestina, Fernando de Rojas, 9788437606848};0009;no}-07/03/2022-14/03/2022-null
+{Carmen, Romero, 01234567J}-{{El Aleph, Jorge Luis Borges, 9788420650201};0010;si}-08/03/2022-15/03/2022-null
+{Sergio, Gonzalez, 12345678K}-{{El nombre de la rosa, Umberto Eco, 9788497592221};0011;no}-09/03/2022-16/03/2022-null
+{Lucia, Torres, 23456789L}-{{Las aventuras de Alicia en el país de las maravillas, Lewis Carroll, 9788497941636};0012;si}-10/03/2022-17/03/2022-24/03/2022
+{Luisa, Fernandez, 01234567H}-{{La Sombra del Viento, Carlos Ruiz Zafón, 9788408163381};0013;no}-01/01/2022-08/01/2022-10/01/2022
+{Jorge, Rodriguez, 12345678I}-{{El Perfume, Patrick Süskind, 9788432215352};0014;si}-02/01/2022-09/01/2022-null
+{María, Martinez, 23456789J}-{{1984, George Orwell, 9788499890944};0015;no}-03/01/2022-10/01/2022-12/01/2022
+{Juan, García, 34567890K}-{{El Código Da Vinci, Dan Brown, 9788408177081};0016;si}-04/01/2022-11/01/2022-null
+{Lucía, Alonso, 45678901L}-{{El Hobbit, J.R.R. Tolkien, 9788445002842};0017;no}-05/01/2022-12/01/2022-null
+{Pedro, Gomez, 56789012M}-{{Cien años de soledad, Gabriel García Márquez, 9788437617269};0018;si}-06/01/2022-13/01/2022-15/01/2022
+{Lorena, Reyes, 67890123N}-{{La Ladrona de Libros, Markus Zusak, 9788490661775};0019;no}-07/01/2022-14/01/2022-16/01/2022
+{Carlos, González, 78901234O}-{{El Alquimista, Paulo Coelho, 9788408135938};0020;si}-08/01/2022-15/01/2022-null
+{Ana, Torres, 89012345P}-{{Harry Potter y la piedra filosofal, J.K. Rowling, 9788478884459};0021;no}-09/01/2022-16/01/2022-19/01/2022
+{David, Sánchez, 90123456Q}-{{El Señor de los Anillos, J.R.R. Tolkien, 9788445003641};0022;si}-10/01/2022-17/01/2022-null
+{Carmen, Jiménez, 01234567R}-{{El Nombre del Viento, Patrick Rothfuss, 9788401352836};0023;no}-11/01/2022-18/01/2022-20/01/2022
+{Javier, Fernandez, 12345678S}-{{Los Pilares de la Tierra, Ken Follet, 9788408044165};0024;si}-12/01/2022-19/01/2022-null
